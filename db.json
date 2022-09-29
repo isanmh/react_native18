@@ -5,6 +5,12 @@
       "email": "isan@gmail.com",
       "divisi": "Fullstack Developer",
       "id": 1
+    },
+    {
+      "nama": "fasdf",
+      "email": "fasdf",
+      "divisi": "fasdfasdf",
+      "id": 2
     }
   ]
 }
